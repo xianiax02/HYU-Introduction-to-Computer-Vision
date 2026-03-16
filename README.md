@@ -22,7 +22,6 @@ To reflect this, the model uses both RGB frames and optical flow instead of rely
 ## Files
 
 - [optical_flow .ipynb](./optical_flow%20.ipynb): Lucas-Kanade optical flow implementation from scratch
-- [train_v3 .ipynb](./train_v3%20.ipynb): baseline 3D CNN fusion model
 - [train_v3_efficientnet.ipynb](./train_v3_efficientnet.ipynb): EfficientNet-B0 based two-stream fusion model
 
 ## Tech Stack
